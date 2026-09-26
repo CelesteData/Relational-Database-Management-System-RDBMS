@@ -3,7 +3,7 @@ A full-lifecycle PostgreSQL relational database for a hospital management system
 
 # Belhaven Community Hospital Database Management System
 # Overview
-This repository contains the complete design, implementation, and analysis of a structured PostgreSQL relational database for Belhaven Community Hospital, a 50-bed medical facility. Built as a capstone project for MDS 632: SQL for Data Science, this database transitions the hospital's operational tracking from flat spreadsheets into a robust, normalized relational architecture.
+This repository contains the complete design, implementation, and analysis of a structured PostgreSQL relational database for Belhaven Community Hospital, a 50-bed medical facility. This database transitions the hospital's operational tracking from flat spreadsheets into a robust, normalized relational architecture.
 
 The project demonstrates the full lifecycle of backend database management, from initial schema creation (DDL) and data insertion (DML) to schema evolution and advanced analytical reporting.
 
